@@ -1,0 +1,12 @@
+{
+  "name": "fundamentos-node",
+  "version": "1.0.0",
+  "description": "Estudio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3":"node app --base=3"
+  },
+  "author": "Robison Horta",
+  "license": "MIT"
+}
